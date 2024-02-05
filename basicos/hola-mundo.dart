@@ -3,7 +3,7 @@
  * @version 1.0
  * @author Víctor Cuervo - http://lineadecodigo.com
  * @date   25/enero/2024
- * @url  http://lineadecodigo.com/dart/xxx/
+ * @url  https://lineadecodigo.com/dart/hola-mundo-en-dart/
  * @description Programa Hola Mundo en Dart
 */
 
